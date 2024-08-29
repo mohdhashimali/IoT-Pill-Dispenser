@@ -66,7 +66,7 @@
  in Arduino IDE.
 
  #  3D Model Design
- DESIGN
+ **DESIGN**
  
  The 3D model design of the IoT-based Medical Pill Dispenser provides a comprehensive
  visual representation of the device, showcasing all its components in a detailed and clear
