@@ -40,13 +40,13 @@
  
  • Breadboard
  
- • LCDDisplay I2C 16x2
+ • LCD Display I2C 16x2
  
  • Clock DS3231
  
  • Motor 28BYJ Stepper motor and ULN2003 driver
  
- • 5mmLED
+ • 5mm LED
  
  • Push button switch
  
