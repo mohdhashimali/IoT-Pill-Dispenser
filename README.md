@@ -132,6 +132,6 @@
  lexical variable scope, and recursion, with a static type system.
 
  # Credits
- [Hashim](https://github.com/mohdhashimali) and team.
+ [Hashim](https://github.com/mohdhashimali) and [team](https://www.linkedin.com/in/mohdhashimali/overlay/urn:li:fsd_profileProject:(ACoAADkWNT8B5u5Pctn92sJm6NOuDMy80HDaAas,1121552339)/creators/).
  
  Inspired by: [chrisweedonart](https://www.instructables.com/member/chrisweedonart)
